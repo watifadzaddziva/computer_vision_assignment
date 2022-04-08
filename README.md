@@ -1,2 +1,7 @@
 # Computer-Vision
 Deep Learning
+
+groups members
+
+WATIFADZA DELIGHT DZIVA R204559B
+THABOLIZWE MABANZDLA R
